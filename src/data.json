@@ -1,0 +1,85 @@
+{
+    "name":"Đinh Viết Duy",
+    "dayofbrith":"20/01/1999",
+    "email":"Vietduy989kc@gmail.com",
+    "phone":"0984929813",
+    "discription":"Các em thực hành viết một đoạn văn tả về một người thân yêu của em để giúp người đọc, người nghe có thể hình dung về đối tượng em muốn nói tới là ai, trong bài văn em cần tuân thủ quy tắc viết văn tả người bao gồm phần tả ngoại hình và phần miêu tả hoạt động, tính cách của đối tượng đó.",
+    "slogen":"Thà một phút huy hoàng rồi vụt tắt ... còn hơn le lói suốt trăm năm",
+    "position":"Fresher",
+    "address":"Hoa Sơn, Anh Sơn, Nghệ an",
+    "banner":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+    "imgage":"https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?fit=bounds&format=jpg&width=960",
+    "skills":[
+        {
+            "name":"Information technology",
+            "content":[
+                {"Word":80},
+                {"Excel":60},
+                {"ProwerPoint":60},
+                {"Outlock":70},
+                {
+                    "Orther":20
+                }
+            ]
+        },
+        {
+            "name":"English",
+            "content":[
+                {"Listen":70},
+                {"Speak":60},
+                {"Reading":60},
+                {"Write":80}
+            ]
+        },
+        {
+            "name":"Kỹ năng giao tiếp",
+            "content":[
+                {"Lắng nghe tích cực":70},
+                {"Giao tiếp với thái độ":60},
+                {"Lời phê bình mang tính xây dựng":60}
+            ]
+        }
+    ],
+    "target":[
+        "Muốn học hỏi tinh thần làm việc từ môi trường chuyên nghiệp và năng động",
+        "Có cơ hội thăng thiến cao, thành công trong công việc"
+    ],
+    "education":[
+        {
+            "time":"2009-2014",
+            "learn":"Học tại Trường cs Hội Sơn",
+            "type":"Tốt"
+        },
+        {
+            "time":"2014-2017",
+            "learn":"Học tại Trường thpt Anh Sơn 1",
+            "type":"Tốt"
+        },
+        {
+            "time":"2017-2022",
+            "learn":"Học tại đại học Vinh",
+            "type":"Tốt"
+        }
+    ],
+    "exp":[
+        {
+            "name":"Bán hàng online",
+            "content":"Hoàn thành tốt công việc",
+            "target":"Kiếm được tiền nuôi sống bản thân"
+        },{
+            "name":"Developer C# (basic)",
+            "content":"Tạo ra các phần mềm chạy trên nền tảng Window, bao gồm cả những phần mềm",
+            "target":"Tạo ra nguồn thu nhập, và có nhiều thời gian hơn để trau dồi bản thân"
+        }
+    ],
+    "extra_skill":[
+        {
+            "name":"Kĩ năng chính",
+            "content":"Có tư duy logic, có khả năng đọc hiểu tốt"
+        },
+        {
+            "name":"Kĩ năng khác",
+            "content":"Giao tiếp tốt,có kĩ năng mềm khá ổn"
+        }
+    ]
+}
